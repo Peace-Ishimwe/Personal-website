@@ -9,7 +9,7 @@ int fibonacci(int n) {
 }
 
 int main() {
-    int n = 2;
+    int n = 50;
     int fib = fibonacci(n);
     
     printf("The 10th value of the Fibonacci series is: %d\n", fib);
